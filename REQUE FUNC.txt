@@ -1,3 +1,4 @@
 Listado de Requerimientos Funcionales
 
 En esta parte se definirán las especificaciones de requerimientos.
+RF1: Alta de nuevo ítems
