@@ -1,0 +1,3 @@
+Estas son las especificaciones de mi proyecto, es muy importante
+
+PROY: Seguimiento de Items
