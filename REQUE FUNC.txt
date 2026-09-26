@@ -1,1 +1,3 @@
 Listado de Requerimientos Funcionales
+
+En esta parte se definirán las especificaciones de requerimientos.
